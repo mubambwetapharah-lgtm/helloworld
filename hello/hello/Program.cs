@@ -7,6 +7,7 @@
             Console.WriteLine("Hello World!");
             Console.WriteLine("Oh, hi, Mark!");
             Console.ReadKey();
+            Console.WriteLine("Task 3 completed!");
         }
     }
 }
